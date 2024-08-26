@@ -1,5 +1,7 @@
-![항해 플러스 수료 인증서](https://github.com/user-attachments/assets/1bfaad84-0935-4cec-925c-95a944e89b54)
-
+### BackEnd
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<br>
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
 </a>
