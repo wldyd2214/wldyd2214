@@ -8,7 +8,7 @@
 
 ### Framework
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-<img src="https://www.yessinfotech.com/wp-content/uploads/2019/11/spring-boot-logo.png"  width="200" height="400"/>
+<img src="https://www.yessinfotech.com/wp-content/uploads/2019/11/spring-boot-logo.png"  width="50" height="100"/>
 
 ### Database
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
