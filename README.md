@@ -8,7 +8,7 @@
 
 ### Framework
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-<img src="https://www.yessinfotech.com/wp-content/uploads/2019/11/spring-boot-logo.png"  width="50" height="100"/>
+<img src="https://i.pinimg.com/564x/bd/e9/75/bde975558b82fd6c2cb9c8e2a15339fc.jpg"  width="80" height="28"/>
 
 ### Database
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -23,8 +23,9 @@
 
 ### CI/CD
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub_Action](https://miro.medium.com/v2/resize:fit:1075/1*VtWbCHhIw6MMMXCil7lZ0g.png)
-![ArgoCD](https://umi0410.github.io/blog/devops/declarative-argocd-helm-app-of-app/logo.png)
+<div style="background-color: #FF8200; color: white; width: 80px; height: 28px; display: flex; align-items: center; justify-content: center; font-weight: bold">
+  ARGO CD
+</div>
 
 ### Other
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
