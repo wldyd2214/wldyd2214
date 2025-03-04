@@ -23,9 +23,6 @@
 
 ### CI/CD
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-<div style="background-color: #FF8200; color: white; width: 80px; height: 28px; display: flex; align-items: center; justify-content: center; font-weight: bold">
-  ARGO CD
-</div>
 
 ### Other
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
