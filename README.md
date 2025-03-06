@@ -7,8 +7,9 @@
 ![Pyhton](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Framework
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-<img src="https://i.pinimg.com/564x/bd/e9/75/bde975558b82fd6c2cb9c8e2a15339fc.jpg"  width="80" height="28"/>
+
+[//]: # (![Spring]&#40;https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&#41;)
+<div style="display: inline-block; background-color: #31B404; color: white; padding: 8px 13px; font-size: 10px; font-weight: bold; vertical-align: middle;">SPRING BOOT</div>
 
 ### Database
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -22,7 +23,11 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### CI/CD
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<div style="display: inline-block; background-color: #E44C30; color: white; padding: 8px 13px; font-size: 10px; font-weight: bold; vertical-align: middle;">GITHUB</div>
+<div style="display: inline-block; background-color: #E44C30; color: white; padding: 8px 13px; font-size: 10px; font-weight: bold; vertical-align: middle;">GITHUB ACTION</div>
+<div style="display: inline-block; background-color: #E44C30; color: white; padding: 8px 13px; font-size: 10px; font-weight: bold; vertical-align: middle;">ARGO CD</div>
+
+[//]: # (![Git]&#40;https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&#41;)
 
 ### Other
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
