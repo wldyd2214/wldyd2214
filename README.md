@@ -28,13 +28,10 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-### Side
+### 🛝 Side
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
 </a>
-
-### Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📚 Study
 - [Notion](https://draxler.notion.site/Hi-I-m-JiYong-17151c93fa48804886d0fe4aeb58be43?pvs=4)
