@@ -36,6 +36,6 @@
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+### Study
 <!-- https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-cd -->
 <!-- <div style="display: inline-block; background-color: #E44C30; color: white; padding: 8px 13px; font-size: 10px; font-weight: bold; vertical-align: middle;">ARGO CD</div> -->
