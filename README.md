@@ -46,7 +46,7 @@
 </a>
 
 ### 📚 Study
-- [Notion](https://draxler.notion.site/Hi-I-m-JiYong-17151c93fa48804886d0fe4aeb58be43?pvs=4)
+- ### [Notion](https://draxler.notion.site/Hi-I-m-JiYong-17151c93fa48804886d0fe4aeb58be43?pvs=4)
 
 <!-- 스킬 뱃지 관련 -->
   <!-- https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-cd -->
