@@ -47,6 +47,11 @@
 
 ### 📚 Study
 - [Notion](https://draxler.notion.site/Hi-I-m-JiYong-17151c93fa48804886d0fe4aeb58be43?pvs=4)
-<!-- https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-cd -->
-<!-- <div style="display: inline-block; background-color: #E44C30; color: white; padding: 8px 13px; font-size: 10px; font-weight: bold; vertical-align: middle;">ARGO CD</div> -->
-<!-- https://github.com/tandpfun/skill-icons -->
+
+<!-- 스킬 뱃지 관련 -->
+  <!-- https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-cd -->
+  <!-- https://github.com/tandpfun/skill-icons -->
+  <!-- https://simpleicons.org/ -->
+
+<!-- 스킬 뱃지 커스텀 -->
+  <!-- <div style="display: inline-block; background-color: #E44C30; color: white; padding: 8px 13px; font-size: 10px; font-weight: bold; vertical-align: middle;">ARGO CD</div> -->
