@@ -1,3 +1,10 @@
+# 🤔 최근 관심사
+- ### Domain-Driven Design
+- ### Clean Architecture
+- ### Event-Driven Architecture
+- ### Kafka
+<br/>
+
 # 🛠️ BackEnd Skill
 
 ### 🗣️ Language
